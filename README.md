@@ -14,7 +14,7 @@
 
 * **이예찬** : <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 
-* **정진수** : <img src="https://img.shields.io/badge/Python-000000C?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+* **정진수** : <img src="https://img.shields.io/badge/Python-000000C?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 ## 📌 **Schedule**
 

@@ -16,6 +16,19 @@
 
 * **정진수** : <img src="https://img.shields.io/badge/Python-000000C?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
+## ✔️ Algorithm Rank
+* **김홍기**
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlaghdrl333)
+
+* **조유식**
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=whdbtlr12)
+
+* **정진수**
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlstkd5129)
+
 ## 📌 **Schedule**
 
 ### * 2021.12.23

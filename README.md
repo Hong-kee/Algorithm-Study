@@ -22,6 +22,8 @@
 
 * 각자 Git Branch 생성 후, fork
 * 더 풀고 싶으면 더 풀고 많으면 조절해서 풀기. 처음이니 무리하지 말기
+* 정렬 알고리즘 참고 (C/C++) : https://hyo-ue4study.tistory.com/68
+* 정렬 알고리즘 참고 (Python) :  https://velog.io/@jguuun/%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
 
 ||알고리즘 분류|문제 번호|
 |------|---|---|

@@ -10,7 +10,7 @@ for i in range(n):
         mi.sort()
         mi_state.append(mi[(app-sign)])
     elif app < sign:
-        mi_state.append(1)   # mi_state.append(mi[0]) -> mi_state.append(1)로 수정 후 성공
+        mi_state.append(1)   # mi_state.append(mi[0]) -> mi_state.append(1)로 수정 후 성공 (수강인원이 신청인원보다 많을 경우는 수업을 다 들을 수 있으므로 마일리지 1점만 소모) 
 
 mi_state.sort()
 

@@ -1,3 +1,8 @@
+// N번째 큰 수
+// 10개의 원소를 가진 배열 A가 주어진다.
+// 3번째로 큰 수 출력
+// 2021-12-27
+
 #include <iostream>
 #include <algorithm>
 #include <vector>

@@ -1,3 +1,8 @@
+// 회의실 배정
+// 회의의 수 N, 시작 시간과 끝나는 시간의 각 회의의 정보가 주어진다.
+// 최대 사용할 수 있는 회의의 개수를 출력한다.
+// 2021-12-27
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

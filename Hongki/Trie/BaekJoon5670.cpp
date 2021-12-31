@@ -40,10 +40,10 @@ struct TRIE {
 		double answer = 0;
 		int cur = words[idx] - 'a';
 		if (isRoot) {
-			answer = node[cur]->find(words, idx + 1, cnt, false); // ÀÚ½ÄÀ¸·Î ³»·Á°¡¸é¼­ +1À» ÇÑ´Ù
+			answer = node[cur]->find(words, idx + 1, cnt, false); // ìžì‹ìœ¼ë¡œ ë‚´ë ¤ê°€ë©´ì„œ +1ì„ í•œë‹¤
 		}
 		else {
-			if (node[cur] != NULL) { // ºó ¹®ÀÚ°¡ ¾Æ´Ò ¶§(À¯È¿ÇÑ ¾ËÆÄºªÀÏ ¶§)
+			if (node[cur] != NULL) { // ë¹ˆ ë¬¸ìžê°€ ì•„ë‹ ë•Œ(ìœ íš¨í•œ ì•ŒíŒŒë²³ì¼ ë•Œ)
 				if (nodeCnt == 1) {
 					if (finish) {
 						answer = node[cur]->find(words, idx + 1, cnt + 1, false);
@@ -64,7 +64,7 @@ struct TRIE {
 int main() {
 	ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 	int cnt;
-
+ 
 	while (cin >> cnt) {
 		TRIE* Root = new TRIE();
 		vector<string> words(cnt);

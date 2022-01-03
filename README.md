@@ -31,9 +31,14 @@
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlstkd5129)
 
+* **이예찬**
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=2praisehim)
+
 * **홍승표**
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tmdvy11)
+
 
 ## 📌 **Schedule**
 

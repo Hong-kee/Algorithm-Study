@@ -16,6 +16,8 @@
 
 * **정진수** : <img src="https://img.shields.io/badge/Python-000000C?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
+* **홍승표** : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+
 ## ✔️ Algorithm Rank
 * **김홍기**
 
@@ -28,6 +30,15 @@
 * **정진수**
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlstkd5129)
+
+* **이예찬**
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=2praisehim)
+
+* **홍승표**
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tmdvy11)
+
 
 ## 📌 **Schedule**
 
@@ -49,10 +60,12 @@
 ### * 2021.12.30
 
 * 브루트 포스 이론 참고 : https://rebro.kr/59
+* 홍승표 회원님 참가 !
 
 ||알고리즘 분류|문제 번호|
 |------|---|---|
-|**김홍기**|해시, 그래프, 우선순위 큐, SQL|Programmers SQL Problem|
+|**김홍기**|트라이, BFS, 해시, 그래프, 우선순위 큐, SQL|5670, 10026, Programmers SQL Problem|
 |**조유식**|해시, 그래프, 우선순위 큐||
 |**이예찬**|브루트 포스|7568, 14888, 15686, 14501|
 |**정진수**|브루트 포스|7568, 14888, 15686, 14501|
+|**홍승표**|브루트 포스|7568, 14888, 15686, 14501|

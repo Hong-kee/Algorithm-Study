@@ -5,6 +5,7 @@
 * 주 마다 회의를 합니다.
 * 알고리즘 종류와 풀 문제를 정합니다.
 * 코드리뷰를 합니다.
+* 시간이 맞는 사람은 Google Meet을 이용하여 모각코를 합니다.
 
 ## 🔨 Stack
 
@@ -23,27 +24,33 @@
 ## ✔️ Algorithm Rank
 * **김홍기**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlaghdrl333)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdrl333)](https://solved.ac/rlaghdrl333)
 
 * **조유식**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=whdbtlr12)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdbtlr12)](https://solved.ac/whdbtlr12)
 
 * **정진수**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlstkd5129)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlstkd5129)](https://solved.ac/wlstkd5129)
 
 * **홍승표**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tmdvy11)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdvy11)](https://solved.ac/tmdvy11)
 
 * **김현수**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlagustn5)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagustn5)](https://solved.ac/rlagustn5)
 
 * **이예찬**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=2praisehim)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2praisehim)](https://solved.ac/2praisehim)
 
 ## 📌 **Schedule**
 
@@ -78,13 +85,17 @@
 
 ### * 2022.01.21
 
+* LCS 이론 참고 : https://velog.io/@emplam27/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-LCS-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Longest-Common-Substring%EC%99%80-Longest-Common-Subsequence
+
+* LCS는 Longest Common Substring, Longest Common Subsequence 2가지가 있습니다. Substring을 먼저 공부하고 Subsequence를 공부하는 것을 권장합니다.
+
 * 김현수 회원님 참가 !
 
 ||알고리즘 분류|문제 번호|
 |------|---|---|
-|**김홍기**|브루트 포스, SQL|14225, 1436, 16987, 16953, 11060, Programmers SQL Problem|
-|**조유식**|체이닝 해시, 브루트 포스|14225, 1436, 16987, 16953, 11060|
-|**이예찬**|브루트 포스|14225, 1436, 16987, 16953, 11060|
-|**정진수**|브루트 포스|14225, 1436, 16987, 16953, 11060|
-|**홍승표**|브루트 포스|14225, 1436, 16987, 16953, 11060|
-|**김현수**|브루트 포스|14225, 1436, 16987, 16953, 11060|
+|**김홍기**|브루트 포스, LCS, LIS, SQL|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, Programmers SQL Problem|
+|**조유식**|체이닝 해시, 브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|
+|**이예찬**|브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|
+|**정진수**|브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|
+|**홍승표**|브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|
+|**김현수**|브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|

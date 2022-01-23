@@ -24,27 +24,33 @@
 ## ✔️ Algorithm Rank
 * **김홍기**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlaghdrl333)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdrl333)](https://solved.ac/rlaghdrl333)
 
 * **조유식**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=whdbtlr12)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdbtlr12)](https://solved.ac/whdbtlr12)
 
 * **정진수**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlstkd5129)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlstkd5129)](https://solved.ac/wlstkd5129)
 
 * **홍승표**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tmdvy11)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdvy11)](https://solved.ac/tmdvy11)
 
 * **김현수**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlagustn5)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagustn5)](https://solved.ac/rlagustn5)
 
 * **이예찬**
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=2praisehim)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2praisehim)](https://solved.ac/2praisehim)
 
 ## 📌 **Schedule**
 

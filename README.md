@@ -9,7 +9,7 @@
 
 ## 🔨 Stack
 
-* **김홍기** : <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+* **김홍기** : <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 * **조유식** : <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 
@@ -93,9 +93,9 @@
 
 ||알고리즘 분류|문제 번호|
 |------|---|---|
-|**김홍기**|브루트 포스, LCS, LIS, SQL|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, Programmers SQL Problem|
-|**조유식**|체이닝 해시, 브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|
-|**이예찬**|브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|
-|**정진수**|브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|
-|**홍승표**|브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|
-|**김현수**|브루트 포스, LCS, LIS|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251|
+|**김홍기**|브루트 포스, LCS, LIS, 백트래킹, SQL|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, 2580, 1759, Programmers SQL Problem|
+|**조유식**|체이닝 해시, 브루트 포스, LCS, LIS, 백트래킹|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, 2580, 1759|
+|**이예찬**|브루트 포스, LCS, LIS, 백트래킹|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, 2580, 1759|
+|**정진수**|브루트 포스, LCS, LIS, 백트래킹|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, 2580, 1759|
+|**홍승표**|브루트 포스, LCS, LIS, 백트래킹|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, 2580, 1759|
+|**김현수**|브루트 포스, LCS, LIS, 백트래킹|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, 2580, 1759|

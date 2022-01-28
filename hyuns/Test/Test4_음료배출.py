@@ -27,11 +27,38 @@ output : [2, 3, 1, 5, 4]
 '''
 
 def solution(N, drink_times):
-
-    answer = []
     
-    return answer
+    answer = []
+    machine = []
+    drink = [False for _ in range(len(drink_times))]
 
+    while len(answer) != len(drink_times):
+        
+        num = 0
+        rest_in_machine = N - len(machine)
+
+
+        data = []
+        # machine에 자리가 있고, 안가져온 drink가 있다면,
+        if rest_in_machine > 0 and False in drink:
+            for idx, dr in enumerate(drink_times):
+                if num == rest_in_machine:
+                    break
+                if drink[idx] == False:
+                    drink[idx] = True
+                    machine.append([idx, dr])
+                    num += 1
+        
+        # time - 1 machine update
+        data = []
+        for idx in range(len(machine)):
+            if machine[idx][1] - 1 != 0:
+                data.append([machine[idx][0], machine[idx][1] - 1])
+            else:
+                answer.append(machine[idx][0]+1)
+        machine = data
+
+    return answer
 
 print(solution(3, [3,1,1,4,2]))
     

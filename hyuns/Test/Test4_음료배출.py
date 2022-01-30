@@ -37,7 +37,6 @@ def solution(N, drink_times):
         num = 0
         rest_in_machine = N - len(machine)
 
-
         data = []
         # machine에 자리가 있고, 안가져온 drink가 있다면,
         if rest_in_machine > 0 and False in drink:
@@ -49,13 +48,15 @@ def solution(N, drink_times):
                     machine.append([idx, dr])
                     num += 1
         
-        # time - 1 machine update
+        # time - 1 machine update -> 다시
         data = []
-        for idx in range(len(machine)):
-            if machine[idx][1] - 1 != 0:
-                data.append([machine[idx][0], machine[idx][1] - 1])
+        machine = sorted(machine, key=lambda x: x[1])
+        
+        for idx, time in machine:
+            if time - machine[0][1] != 0:
+                data.append([idx, time - machine[0][1]])
             else:
-                answer.append(machine[idx][0]+1)
+                answer.append(idx+1)
         machine = data
 
     return answer

@@ -103,15 +103,17 @@
 
 ### * 2022.02.03
 
+* Update[2022.02.06] - Two Pointer, Sliding Window 개념 익히고 백준 문풀하기
+
 * Leetcode 데일리 문제를 하루에 한 문제씩 풀기
 
-* 백준 Map 문제 골라서 풀기 (추후 추가 예정)
+* 백준 Map 문제 골라서 풀기 [추후 추가 예정]
 
 ||알고리즘 분류|문제 번호|
 |------|---|---|
-|**김홍기**|Leetcode|Daily Problem|
-|**조유식**|Leetcode|Daily Problem|
-|**이예찬**|Leetcode|Daily Problem|
-|**정진수**|Leetcode|Daily Problem|
-|**홍승표**|Leetcode|Daily Problem|
-|**김현수**|Leetcode|Daily Problem|
+|**김홍기**|Leetcode, Map, DP|Daily Problem|
+|**조유식**|Leetcode, Map, DP|Daily Problem|
+|**이예찬**|Leetcode, Map, DP|Daily Problem|
+|**정진수**|Leetcode, Map, DP|Daily Problem|
+|**홍승표**|Leetcode, Map, DP|Daily Problem|
+|**김현수**|Leetcode, Map, DP|Daily Problem|

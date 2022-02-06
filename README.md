@@ -107,6 +107,8 @@
 
 * Two Pointers, Sliding Window 개념 & 문제 추천 : https://m.blog.naver.com/kks227/220795165570
 
+* 에라토스테네스의 체 & 소인수 분해 & 약수의 갯수 최적화 알고리즘 : https://rebro.kr/96
+
 * Leetcode 데일리 문제를 하루에 한 문제씩 풀기
 
 * 백준 Map 문제 골라서 풀기 [추후 추가 예정]

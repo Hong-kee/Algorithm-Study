@@ -103,7 +103,9 @@
 
 ### * 2022.02.03
 
-* Update[2022.02.06] - Two Pointer, Sliding Window 개념 익히고 백준 문풀하기
+* Update[2022.02.06] - Two Pointers, Sliding Window 개념 익히고 백준 문풀하기
+
+* Two Pointers, Sliding Window 개념 & 문제 추천 : https://m.blog.naver.com/kks227/220795165570
 
 * Leetcode 데일리 문제를 하루에 한 문제씩 풀기
 

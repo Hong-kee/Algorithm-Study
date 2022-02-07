@@ -11,12 +11,9 @@ class Solution:
 
     def mergeTwoLists(self, list1: ListNode, list2: ListNode) -> ListNode:
         
-        
         print(list1.val)
         print(list2)
         return list1
-
-
 
 list1 = [1,2,3]
 list2 = [2,3,4]

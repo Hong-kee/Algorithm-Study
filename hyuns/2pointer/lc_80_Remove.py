@@ -6,7 +6,6 @@ def removeDuplicates(nums):
             start += 1
     return start
 
-
 nums = [1,1,1,2,2,3]
 k = removeDuplicates(nums)
 print(k, nums)

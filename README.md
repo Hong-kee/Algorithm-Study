@@ -99,3 +99,25 @@
 |**정진수**|브루트 포스, LCS, LIS, 백트래킹|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, 2580, 1759|
 |**홍승표**|브루트 포스, LCS, LIS, 백트래킹|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, 2580, 1759|
 |**김현수**|브루트 포스, LCS, LIS, 백트래킹|14225, 1436, 16987, 16953, 11060, 5582, 1958, 9251, 2580, 1759|
+
+
+### * 2022.02.03
+
+* Update[2022.02.06] - Two Pointers, Sliding Window 개념 익히고 백준 문풀하기
+
+* Two Pointers, Sliding Window 개념 & 문제 추천 : https://m.blog.naver.com/kks227/220795165570
+
+* 에라토스테네스의 체 & 소인수 분해 & 약수의 갯수 최적화 알고리즘 : https://rebro.kr/96
+
+* Leetcode 데일리 문제를 하루에 한 문제씩 풀기
+
+* 백준 Map 문제 골라서 풀기 [추후 추가 예정]
+
+||알고리즘 분류|문제 번호|
+|------|---|---|
+|**김홍기**|Leetcode, Map, DP|Daily Problem|
+|**조유식**|Leetcode, Map, DP|Daily Problem|
+|**이예찬**|Leetcode, Map, DP|Daily Problem|
+|**정진수**|Leetcode, Map, DP|Daily Problem|
+|**홍승표**|Leetcode, Map, DP|Daily Problem|
+|**김현수**|Leetcode, Map, DP|Daily Problem|

@@ -1,7 +1,6 @@
 import sys
 input = sys.stdin.readline
 
-#
 # sys.stdin = open("input_16234.txt", "r")
 #
 # T = int(input())
@@ -52,9 +51,6 @@ def make_treeGraph(tree):
         tree_graph[x - 1][y - 1].append(z)
     return tree_graph
 
-
-
-# for test_case in range(1, T + 1):
 
 if __name__ == "__main__":
     N, M, K = map(int, input().split())

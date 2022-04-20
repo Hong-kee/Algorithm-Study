@@ -24,34 +24,26 @@ def move_dust(arr, mch_x, mch_y, direction):
 
     # 오른쪽 방향
     before_dust = 0
-    start_x, start_y = mch_x, mch_y
-    for dy in range(start_y + 1, c):
-        start_y = dy
-        tmp = arr[start_x][start_y]
-        arr[start_x][start_y] = before_dust
-        before_dust = tmp
+    move_x, move_y = mch_x, mch_y
+    last_x, last_y = -1 if direction == -1 else r, c
+
+    for dy in range(move_y + 1, last_y):
+        arr[move_x][dy], before_dust = before_dust, arr[move_x][dy]
+    move_y = last_y-1
 
     # 위 or 아래 방향
-    last_x = -1 if direction == -1 else r
-    for dx in range(start_x + direction, last_x, direction):
-        start_x = dx
-        tmp = arr[start_x][start_y]
-        arr[start_x][start_y] = before_dust
-        before_dust = tmp
+    for dx in range(move_x + direction, last_x, direction):
+        arr[dx][move_y], before_dust = before_dust, arr[dx][move_y]
+    move_x = last_x - direction
 
     # 왼쪽 방향
-    for dy in range(start_y-1, -1, -1):
-        start_y = dy
-        tmp = arr[start_x][start_y]
-        arr[start_x][start_y] = before_dust
-        before_dust = tmp
+    for dy in range(move_y - 1, -1, -1):
+        arr[move_x][dy], before_dust = before_dust, arr[move_x][dy]
+    move_y = 0
 
     # 위 or 아래 방향
-    for dx in range(start_x - direction, mch_x, -direction):
-        start_x = dx
-        tmp = arr[start_x][start_y]
-        arr[start_x][start_y] = before_dust
-        before_dust = tmp
+    for dx in range(move_x - direction, mch_x, -direction):
+        arr[dx][move_y], before_dust = before_dust, arr[dx][move_y]
 
 
 def cnt_dust():

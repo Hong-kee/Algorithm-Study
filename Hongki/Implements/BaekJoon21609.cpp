@@ -29,8 +29,8 @@ void initVisited() {
 void findBlocks(int y, int x) {
 	queue<pair<int, int>> q;
 
-	//블록 갯수, 기준 블록, 기준y, 기준x
-	int myCnt = 1, commonBlock = 0, rainbowBlock = 0, standardBlock = board[y][x], standardY = y, standardX =x;
+	//블록 갯수, 무지개 블록 갯수
+	int myCnt = 1, rainbowBlock = 0, standardBlock = board[y][x];
 	q.push(make_pair(y, x));
 
 	while (!q.empty()) {
@@ -50,26 +50,18 @@ void findBlocks(int y, int x) {
 				visited[my][mx] = true;
 				q.push(make_pair(my, mx));
 				myCnt++;
-				commonBlock++;
-				//크기를 구하기 위해
-				if (standardY < my) standardY = my;
-				if (standardX < mx) standardX = mx;
 			}
 			//일반 블록 -> 무지개 블록 / 무지개 블록 -> 무지개 블록
 			else if (board[y][x] == standardBlock && board[my][mx] == 0 || board[y][x] == 0 && board[my][mx] == 0) {
 				visited[my][mx] = true;
 				q.push(make_pair(my, mx));
 				myCnt++;
-				commonBlock++;
 				rainbowBlock++;
-				//크기를 구하기 위해
-				if (standardY < my) standardY = my;
-				if (standardX < mx) standardX = mx;
 			}
 		}
 	}
-	//만일 블록 갯수 >= 2? 벡터에 넣기(블록 갯수, 무지개 블록), (행의 크기, 열의 크기), (기준 블록y, 기준 블록x)
-	if (myCnt >= 2 && commonBlock >= 1) v.push_back(make_pair((make_pair(myCnt, rainbowBlock)), make_pair(y, x)));
+	//만일 블록 갯수 >= 2? 벡터에 넣기(블록 갯수, 무지개 블록), (기준 블록y, 기준 블록x)
+	if (myCnt >= 2) v.push_back(make_pair((make_pair(myCnt, rainbowBlock)), make_pair(y, x)));
 	
 	//무지개 블록 방문 해제
 	for (int i = 0; i < n; i++) {

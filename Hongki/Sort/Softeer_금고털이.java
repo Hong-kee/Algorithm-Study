@@ -29,6 +29,8 @@ public class Main {
         Collections.sort(jewelInformations);
 
         for (int i = 0; i < jewelInformations.size(); i++) {
+            if (bagWeight == 0) break;
+            
             if (bagWeight > jewelInformations.get(i).getJewelSize()) {
                 bagWeight -= jewelInformations.get(i).getJewelSize();
                 answer += jewelInformations.get(i).getJewelSize() * jewelInformations.get(i).getJewelPrice();
